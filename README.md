@@ -1,2 +1,2 @@
 # Sample
-はじめてのGitHub
+Colabやデータの保存先
